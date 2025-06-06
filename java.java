@@ -1,5 +1,5 @@
 public class java {
     public static void main(String[] args) {
-        System.out.println("quinto");
+        System.out.println("sexto");
     }
 }
